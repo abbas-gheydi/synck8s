@@ -1,6 +1,6 @@
 # SYNCK8S
 ## About The Project
-synck8s can sync deployments beetween two Kubernetes clusters.   
+synck8s can sync deployment image tags beetween two Kubernetes clusters.   
 ### How to build
 ```
 go get ./..

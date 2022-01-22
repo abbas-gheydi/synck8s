@@ -6,7 +6,7 @@ synck8s can sync deployment image tags beetween two Kubernetes clusters.
 go get ./..
 go build -o synck8s ./
 ```
-### How to Use
+### Configuration:   
 edit config.yml and customize it to meet your needs:   
 ```yaml
 # Kubeconfig address for each cluster. where 'Source' is your main k8s cluster and
